@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.syrm.dontleakme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.syrm.dontleakme.MyBundle
 
 class MyApplicationService {
 
